@@ -1,0 +1,20 @@
+.aboutmelinks{
+    float: left; 
+    margin-left: 25px;
+}
+
+.pinkit{
+    background-color:rgb(252, 220, 225)
+}
+
+.myheadings{
+   text-align: center;
+}
+
+.contactinfo{
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+}
